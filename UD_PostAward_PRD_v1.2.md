@@ -1,10 +1,10 @@
 # 🏛️ University of Dubai — Post-Award Research Management System (PARMS)
-## Product Requirements Document · v1.0
+## Product Requirements Document · v2.0
 
 ---
 
 > **Document Status:** Draft — For Review  
-> **Version:** 1.2  
+> **Version:** 2.0
 > **Date:** June 2026  
 > **Prepared by:** Research Affairs  
 > **Audience:** IT Dept  
